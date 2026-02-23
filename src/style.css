@@ -5,7 +5,7 @@
 body {
   margin: 0;
   min-height: 100dvh;
-  background-image: url("../anime-eyes-illustration.webp");
+  background-image: url("../public/anime-eyes-illustration.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
